@@ -1,4 +1,7 @@
-# Markdown Files
+# Naylatus syafa'ah
+
+sistem persamaan linier adalah pangkat yang tertinggi itu hanya 1
+sistem persamaan linier adalah kumpulan dari dua atau lebih persamaan linier dengan variabel yang sama tujuan utamanya menemukan nilai variabel yang yang memenuhi semua persamaan secara bersamaan 
 
 Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
 in regular markdown files (`.md`), you'll write in the same flavor of markdown
